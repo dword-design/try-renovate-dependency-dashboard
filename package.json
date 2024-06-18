@@ -1,0 +1,11 @@
+{
+  "name": "try-renovate-dependency-dashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dword-design/try-renovate-dependency-dashboard.git",
+  "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@dword-design/config": "^1.6.9"
+  }
+}
