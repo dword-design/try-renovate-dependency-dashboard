@@ -6,6 +6,6 @@
   "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
   "license": "MIT",
   "dependencies": {
-    "@dword-design/config": "^1.6.9"
+    "moment": "^2.30.1"
   }
 }
